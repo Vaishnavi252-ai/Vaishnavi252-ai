@@ -17,6 +17,3 @@ Hi 👋, I'm Vaishnavi Misal<br>Aspiring Full-Stack AI Engineer | Frontend Devel
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi252-ai&show_icons=true&locale=en" alt="vaishnavi252-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi252-ai&" alt="vaishnavi252-ai" /></p>
-
