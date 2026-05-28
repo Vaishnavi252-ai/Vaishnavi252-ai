@@ -16,4 +16,4 @@ Hi 👋, I'm Vaishnavi Misal<br>Aspiring Full-Stack AI Engineer | Frontend Devel
 [![](https://komarev.com/ghpvc/?username=Vaishnavi252-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi252-ai&show_icons=true&locale=en" alt="vaishnavi252-ai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi252-ai&show_icons=true&locale=en" alt="vaishnavi252-ai" /></p>
