@@ -51,13 +51,13 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.shion.dev/api?username=Vaishnavi252-ai&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://streak-stats.demolab.com/?user=Vaishnavi252-ai&theme=cobalt&hide_border=false"/>
 
-<br/>
+<img height="170em"
+     src="https://github-readme-streak-stats.herokuapp.com?user=Vaishnavi252-ai&theme=cobalt"/>
 
-<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vaishnavi252-ai&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+
 
 </div>
 
