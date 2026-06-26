@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Vaishnavi252-ai&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/Vaishnavi252-ai?label=Followers&style=flat" />
- <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat"/>
 </p>
 
 #  <h1 align="center">👋 Hi, I am <del><em>Captain Marvel!</em></del> Vaishnavi Misal </h1>
