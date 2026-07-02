@@ -1,7 +1,9 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Vaishnavi252-ai&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/Vaishnavi252-ai?label=Followers&style=flat" />
- <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat"/>
+ <a href="https://vaishnavi-portfolio-eosin.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 #  <h1 align="center">👋 Hi, I am <del><em>Captain Marvel!</em></del> Vaishnavi Misal </h1>
@@ -18,7 +20,7 @@
 ---
 
 🌐 Portfolio<br>
- Portfolio Website: Coming Soon <br>
+ Portfolio Website: https://vaishnavi-portfolio-eosin.vercel.app/ <br>
 
 ⚡ Fun Fact<br>I enjoy turning ambitious ideas into production-ready projects and often learn the most while solving the toughest bugs.
 
